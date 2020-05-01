@@ -1,0 +1,57 @@
+body{
+    background-image: url(./images/backgroundforsure.jpg);
+    background-size: cover;
+}
+
+.header{
+    background-image: url('./thumbnails/invincible.jpg');
+    background-size: contain    ;
+    width:180px;
+    height: 150px;
+    margin: 0 auto;
+}
+
+.card{
+    width:200px;
+    height:270px;
+    border: 1px solid whitesmoke;
+    margin:20px;
+    background-color: rgb(225, 233, 233);
+    float: left;
+}
+
+.card img {
+    width: auto;
+    height: 200px;
+}
+
+.btn {
+    position: absolute;
+    cursor: pointer;
+    opacity: 0.9;
+    -webkit-filter: drop-shadow(1px 1px 2px rgba(0, 0, 0, 0.33));
+    filter: drop-shadow(1px 1px 2px rgba(0, 0, 0, 0.33));
+    -webkit-user-select: none;
+    user-select: none;
+  }
+  .btn:hover {
+    opacity: 5;
+  }
+  #playBtn {
+    background-image: url('./thumbnails/play.png');
+    background-size: cover;
+    width: 50px;
+    height: 50px;
+    /* left: 50%; */
+    margin: 6px 80px;
+  }
+  #pauseBtn {
+    background-image: url('./thumbnails/pause.png');
+    background-size: cover;
+    width: 50px;
+    height: 50px;
+    /* left: 50%; */
+    /* margin: auto -34.5px; */
+    /* display: none; */
+    margin: 6px 80px;
+  }
