@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/FantasticFour/static/css/main.85433e50.chunk.css",
+    "main.js": "/FantasticFour/static/js/main.fb88709f.chunk.js",
+    "main.js.map": "/FantasticFour/static/js/main.fb88709f.chunk.js.map",
+    "runtime-main.js": "/FantasticFour/static/js/runtime-main.c6a9bf8f.js",
+    "runtime-main.js.map": "/FantasticFour/static/js/runtime-main.c6a9bf8f.js.map",
+    "static/js/2.07c619ae.chunk.js": "/FantasticFour/static/js/2.07c619ae.chunk.js",
+    "static/js/2.07c619ae.chunk.js.map": "/FantasticFour/static/js/2.07c619ae.chunk.js.map",
+    "index.html": "/FantasticFour/index.html",
+    "precache-manifest.1a585fa9d71a2998be4b285f652007c4.js": "/FantasticFour/precache-manifest.1a585fa9d71a2998be4b285f652007c4.js",
+    "service-worker.js": "/FantasticFour/service-worker.js",
+    "static/css/main.85433e50.chunk.css.map": "/FantasticFour/static/css/main.85433e50.chunk.css.map",
+    "static/js/2.07c619ae.chunk.js.LICENSE.txt": "/FantasticFour/static/js/2.07c619ae.chunk.js.LICENSE.txt",
+    "static/media/Fear.mp3": "/FantasticFour/static/media/Fear.95bf2540.mp3",
+    "static/media/SeeYouAgain.mp3": "/FantasticFour/static/media/SeeYouAgain.2017e866.mp3",
+    "static/media/ThousandYears.mp3": "/FantasticFour/static/media/ThousandYears.3758f0cf.mp3",
+    "static/media/WickedOnes.mp3": "/FantasticFour/static/media/WickedOnes.60476842.mp3",
+    "static/media/style.css": "/FantasticFour/static/media/invincible.a7b79478.jpg",
+    "static/media/fearthumbnail.jpg": "/FantasticFour/static/media/fearthumbnail.c4095a8d.jpg",
+    "static/media/seeyouagainthumbnail.jpg": "/FantasticFour/static/media/seeyouagainthumbnail.8b474da3.jpg",
+    "static/media/thousandyearsthumbnail.jpg": "/FantasticFour/static/media/thousandyearsthumbnail.b5ab0922.jpg",
+    "static/media/wickedonesthumbnail.jpg": "/FantasticFour/static/media/wickedonesthumbnail.17842b80.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6a9bf8f.js",
+    "static/js/2.07c619ae.chunk.js",
+    "static/css/main.85433e50.chunk.css",
+    "static/js/main.fb88709f.chunk.js"
+  ]
+}
