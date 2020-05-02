@@ -4,8 +4,8 @@ body{
 }
 
 .header{
-    background-image: url('./thumbnails/invincible.jpg');
-    background-size: contain    ;
+    background-image: url('./thumbnails/kodi.jpg');
+    background-size: cover;
     width:180px;
     height: 150px;
     margin: 0 auto;
