@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3e7312a77aeb314500ba9f8b7a281396",
+    "revision": "789478b9106ddb80ff9fc525a02c7235",
     "url": "/FantasticFour/index.html"
   },
   {
-    "revision": "bb8a64c46b160f0ffd92",
-    "url": "/FantasticFour/static/css/main.662c5726.chunk.css"
+    "revision": "02a11b2a982916718aae",
+    "url": "/FantasticFour/static/css/main.1b0c527f.chunk.css"
   },
   {
     "revision": "8b225712ec4959377134",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FantasticFour/static/js/2.07c619ae.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bb8a64c46b160f0ffd92",
+    "revision": "02a11b2a982916718aae",
     "url": "/FantasticFour/static/js/main.fb88709f.chunk.js"
   },
   {
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FantasticFour/static/media/fearthumbnail.c4095a8d.jpg"
   },
   {
-    "revision": "375b62e0c8e9707ef117a5e44305222d",
-    "url": "/FantasticFour/static/media/kodi.375b62e0.jpg"
+    "revision": "a7b79478e724b19ff453c942cb7baa59",
+    "url": "/FantasticFour/static/media/invincible.a7b79478.jpg"
   },
   {
     "revision": "8b474da3600c96ef20e806ef6e75caf4",
